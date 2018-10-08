@@ -95,19 +95,19 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot 1](figure/plot1.png) 
+![plot 1](project/plot1.png) 
 
 
 ### Plot 2
 
-![plot 2](figure/plot2.png) 
+![plot 2](project/plot2.png) 
 
 
 ### Plot 3
 
-![plot 3](figure/plot3.png) 
+![plot 3](project/plot3.png) 
 
 
 ### Plot 4
 
-![plot 4](figure/plot4.png) 
+![plot 4](project/plot4.png) 
